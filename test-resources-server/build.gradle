@@ -29,7 +29,7 @@ dependencies {
 }
 
 application {
-    mainClass = "io.micronaut.testresources.server.Application"
+    mainClass = "io.micronaut.testresources.server.TestResourcesService"
 }
 
 micronaut {
